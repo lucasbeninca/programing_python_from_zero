@@ -1,0 +1,1 @@
+print('Explicitos', 'é', 'melhor', 'que', 'implicito', sep='-')
